@@ -1,2 +1,3 @@
 # markdown-blockcode
-je vais faire le readme
+
+a Python Markdown extension to add blockcode from a file
