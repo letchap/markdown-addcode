@@ -6,7 +6,7 @@ All you have to do is to add a tag like `{% addcode file.py %}` in your markdown
 
 ## Installation:
 
-Just drop it in the extensions folder of the markdown package: markdown/extensions
+Just drop it in the extensions folder of the markdown package: `markdown/extensions`
 
 ## How to run the unit tests
 
