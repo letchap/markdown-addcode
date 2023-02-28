@@ -1,4 +1,4 @@
-# markdown-blockcode
+# markdown-addcode
 
 A Python Markdown extension to add blockcode from an existing file containing the code.
 
