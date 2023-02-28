@@ -10,7 +10,7 @@ Just drop it in the extensions folder of the markdown package: `markdown/extensi
 
 ## Example
 
-Let's say you have a script.py file with the following lines :
+Let's say you have a `script.py` file with the following lines :
 
     from markdown.extensions import Extension
     from markdown.preprocessors import Preprocessor
