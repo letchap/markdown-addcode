@@ -5,7 +5,7 @@ import re
 import codecs
 
 
-# The regex to find where to add the code ans where to find the source. In my pages, it looks like {% addcode content/code/file.py %}
+# The tag to find where to add the code and the regex to find the source file directory. In my pages, it looks like {% addcode content/code/file.py %}
 
 CODE_RE = re.compile(r'\{% addcode ?(?P<src>[^\}]*) \%}')
 
