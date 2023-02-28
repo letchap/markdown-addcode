@@ -12,11 +12,10 @@ Just drop it in the extensions folder of the markdown package: `markdown/extensi
 
 Let's say you have a script.py file with the following lines :
 
-  from markdown.extensions import Extension
-  from markdown.preprocessors import Preprocessor
-
-  class AddCodePreprocessor(Preprocessor):
-    blablabla...
+    from markdown.extensions import Extension
+    from markdown.preprocessors import Preprocessor
+    class AddCodePreprocessor(Preprocessor):
+      blablabla...
   
   
 Now add to your text.markdown file the following line :
